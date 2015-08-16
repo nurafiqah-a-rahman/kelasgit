@@ -1,6 +1,4 @@
 <?php 
-echo "hello git";
-
+echo "hello git [haiiiiiiii]";
 echo "bye git";
-
 ?>
