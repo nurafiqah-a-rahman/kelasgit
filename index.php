@@ -1,6 +1,6 @@
 <?php
 
-//echo "hello git";
+echo "hello git what's up";
 
-echo "bye git";
+echo "intro to git";
 ?>
